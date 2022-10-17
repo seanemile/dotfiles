@@ -1,6 +1,4 @@
-# Machfiles
-
-![machfiles image](./machfiles.png)
+# Dotfiles
 
 ## Installing
 
@@ -9,7 +7,7 @@ You will need `git` and GNU `stow`
 Clone into your `$HOME` directory or `~`
 
 ```bash
-git clone https://github.com/ChristianChiarulli/Machfiles.git ~
+https://github.com/seanemile/dotfiles.git ~
 ```
 
 Run `stow` to symlink everything or just select what you want
