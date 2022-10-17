@@ -1,0 +1,16 @@
+// Ubuntu packages
+zsh
+zoxide
+git
+neovim
+xstow
+tree
+curl
+fzf
+stow
+
+// Foundry
+curl -L https://foundry.paradigm.xyz | bash
+
+// npm packages
+npm install @angular/cli
