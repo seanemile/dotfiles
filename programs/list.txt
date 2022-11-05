@@ -8,6 +8,7 @@ tree
 curl
 fzf
 stow
+trash-cli
 
 // Foundry
 curl -L https://foundry.paradigm.xyz | bash
