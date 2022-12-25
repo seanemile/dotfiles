@@ -15,3 +15,6 @@ curl -L https://foundry.paradigm.xyz | bash
 
 // npm packages
 npm install @angular/cli
+
+// rust packages
+cargo install just
